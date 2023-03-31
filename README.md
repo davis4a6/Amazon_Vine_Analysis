@@ -12,11 +12,11 @@ This analysis chose to use reviews from the Video Game category.
 Since the dataset for Video Game reviews is so large, we focused on the reviews that would be most helpful by filtering the dataset. We filtered the dataset by the following:
     - Count of Total Votes >= 20
 
-    ![Alt text](images/count_total_votes.PNG)
+![Alt text](images/count_total_votes.PNG)
 
     - Number of Helpful Votes Divided by the Number of Total Votes was >= 50%
 
-    ![Alt text](images/helpful_votes_by_total_votes.PNG)
+![Alt text](images/helpful_votes_by_total_votes.PNG)
 
 # Total Number of Reviews
     - Vine Reviews: 94
