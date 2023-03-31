@@ -1,6 +1,6 @@
 # Amazon_Vine_Analysis
 
-![Alt text](../../../Downloads/vine_logo_title.png)
+![Alt text](images/amazon_vine.PNG)
 
 ## Overview
 In this project, the goal is to analyze the Amazon Vine program reviews and determine if there is a bias in reviews from Vine members, versus Non-Vine members. In this analysis, PySpark is used to perform ETL processes in extracting the data and transforming the data. AWS was also used to connect to an AWS RDS instance, load that data into pgAdmin and then analyze the data from there. We also used Google Colaboratory to import PySpark libraries and connect to Postgres in order to create tables and export results.
